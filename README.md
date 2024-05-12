@@ -8,7 +8,6 @@ Created by: **Tahmid Hussam**
 
 **Marvel API** is an android app that **that displays a scrollable list of characters from the Marvel API**
 
-If I had to describe this project in three (3) emojis, they would be: **😀😃😄**
 
 ## Video Demo
 
